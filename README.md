@@ -38,9 +38,6 @@
 ![](Img/info.png)
 
 
-# Download EFI (Opencore 0.7.9)
-- https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567/releases/tag/0.7.9
-
 # Credits
 - Apple for macOS.
 - Acidanthera for OpenCore and all the lovely hackintosh work.
