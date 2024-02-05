@@ -13,7 +13,7 @@
 - Audio Adapter: Realtek ALC256 - High Definition Audio Controller
 
 # Working:
-- Intel HD Graphics 620 2048 MB
+- Intel HD Graphics 620 1536 MB
 - Restart and Shutdown
 - CPU Power Management
 - Wifi (Intel AC-3165)
