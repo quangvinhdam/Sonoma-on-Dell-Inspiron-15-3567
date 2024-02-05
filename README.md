@@ -33,9 +33,9 @@
 # Screenshot:
 
 
-![1](.Img/Hackintool1.png)
-![](.Img/Hackintool2.png)
-![](.Img/info.png)
+![](Img/Hackintool1.png)
+![](Img/Hackintool2.png)
+![](Img/info.png)
 
 
 # Download EFI (Opencore 0.7.9)
