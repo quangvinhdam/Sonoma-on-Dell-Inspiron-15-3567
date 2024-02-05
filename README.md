@@ -1,4 +1,4 @@
-# Monterey On Dell Inspiron 15 3567
+# Sonoma On Dell Inspiron 15 3567
 
 # Warning:
 - In Sonoma version installation is not allowed on Macbook Pro 14,3 and below. I used -no_compat_check in boot-args to get past that.
