@@ -1,7 +1,7 @@
 # Monterey On Dell Inspiron 15 3567
 
 # Warning:
-- In Sonoma version installation is not allowed on Macbook Pro 14.3 and below. I used -no_compat_check in boot-args to get past that.
+- In Sonoma version installation is not allowed on Macbook Pro 14,3 and below. I used -no_compat_check in boot-args to get past that.
 
 # Specs:
 - CPU:	Intel Core i3 Kabylake, 7020U, 2.30 GHz
